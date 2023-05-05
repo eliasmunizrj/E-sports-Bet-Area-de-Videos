@@ -1,0 +1,117 @@
+body {
+    background: #121214;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top-nav{
+    background-color: #090909;
+    border-radius: 10px;
+    border: 1px solid #212121;
+}
+
+.telegram{
+    background-color: #2a292e;
+    color: white;
+    padding: 16px 50px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.telegram:hover{
+    background-color: #3c3a41;
+    color: white;
+    padding: 16px 50px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.corpo {
+    background-color: #090909;
+    border-radius: 10px;
+    border: 1px solid #212121;
+}
+
+
+.botao{
+    background-color: #04fc05;
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 50%;
+}
+
+
+.top-aula{
+    background-color: #090909;
+    border-radius: 10px;
+    border: 1px solid #212121;
+}
+
+.text-head {
+    margin-left: 30px;
+    padding-left: 30px;
+    border-left: 0.06rem solid rgb(41, 41, 46);
+    font-size: 1rem;
+    line-height: 1.62rem;
+    color: rgb(196, 196, 204);
+}
+
+
+.aulas {
+   overflow: auto;
+}
+
+.first{
+    color: #04fc05;
+}
+
+.last{
+    color: white;
+}
+
+.logo {
+        width: 227px;
+        height: 29px;
+      }
+      
+}
+
+
+
+.btn {
+
+    background-color: #04fc05 ;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 10px 60px;
+    border-radius: 0;
+}
+
+
+.img-aula {
+    border: 1px solid rgb(37, 37, 37);
+}
+
+
+
+.img-aula:hover {
+    border: 1px solid #04fc05;
+    transition: 0.6s;
+    
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 6px;
+   
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(90deg, #090909 0%, #04fc05 100%);
+    border-radius: 10px;
+}
+
